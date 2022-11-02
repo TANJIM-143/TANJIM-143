@@ -1,6 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Students <br>👯 I’m looking to collaborate on GitHub <br>🤝 I’m looking for help with ANY<br>🌱 I’m currently learning JavaScript <br>💬 Ask me about <br>⚡ Fun fact
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+TANJIM-AFRIDE💗+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/t.tanjim143) 
